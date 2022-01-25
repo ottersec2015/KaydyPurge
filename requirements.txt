@@ -1,0 +1,11 @@
+requests
+discord
+psutil
+pypiwin32
+colorama
+pycryptodome
+discord_webhook
+pyautogui
+aiohttp
+numpy
+pillow
